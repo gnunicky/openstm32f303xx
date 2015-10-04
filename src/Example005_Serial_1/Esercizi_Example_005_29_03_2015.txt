@@ -1,0 +1,13 @@
+Esercizio 1: 
+Configurare la USART2 115200 8n1
+
+Esercizio 2: 
+Implementare sulla USART1 una funzione echo, per cui ogni byte ricevuto è trasmesso è ritrasmesso indietro
+
+Esercizio 3: 
+Invece dell'echo spedire indietro il codice ASCII in esadecimale.
+
+Esercizio 4: 
+Implentare la funzionalità per la quale ogni byte ricevuto dalla USART2 è ritrasmesso sulla USART1.
+
+

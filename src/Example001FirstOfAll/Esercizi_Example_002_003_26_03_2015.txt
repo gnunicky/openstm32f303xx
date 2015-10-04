@@ -1,0 +1,25 @@
+Esercizio 1: Statistiche
+
+1. Creare l'array Numeri di int di N=10 elementi
+2. Inizializzare tutto l'array ad 1
+3. Definire un puntatore di interi pNumero
+4. Iterare per 5 volte
+   1) Chiedere all'utente l'indice dell'array e verificare che sia valido
+   2) Assegnare a pNumero il la posizione dell'array Numero[indice]
+   3) Stampare in esadecimale nel terminale I/O il valore del puntatore
+   4) Chiedere all'utente tramite una scanf un valore per pNumero
+5. Calcolare la somma scorrendo tutti gli elementi dell'array
+6. Calcolare la media con precisione di almeno 2 cifre decimali
+7. Ricalcolare la somma scorrendo l'array attraverso il puntatore
+
+Esercizio 2: Accesso studenti
+1. Creare una struct / record studente che contenga i campi
+   1) Nome e Cognome
+   2) Codice (Alfanumerico lunghezza fissa 5)
+   3) Accesso per 4 Dip (con array di lunghezza 4)
+   4) ConteggioAccessi per dip (array)
+   5) Valido
+2. Creare un array di 10 posizioni ed Aggiungere  4 utenti con codice A0001, A0002, B0001, B0002
+3. Creare una funzione che passato un puntatore alla struct studente mette a zero tutti i byte
+4. Definire una variabile globale che rappresenta il dipartimento dove la macchinetta è installata
+5. Chiedere il codice tramite una scanf il codice e rispondere se lo studente ha diritto di accesso in relazione al dipartimento

@@ -1,0 +1,4 @@
+cp /home/nicky/src/Peripheral_Examples/openstm32f303xx/Demostration/usb_conf.h /home/nicky/src/Peripheral_Examples/openstm32f303xx/Libraries/STM32_USB-FS-Device_Driver/inc/
+
+cp /home/nicky/src/Peripheral_Examples/openstm32f303xx/Demostration/hw_config.h /home/nicky/src/Peripheral_Examples/openstm32f303xx/Libraries/STM32_USB-FS-Device_Driver/inc/
+

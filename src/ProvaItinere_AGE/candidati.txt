@@ -1,0 +1,48 @@
+[Parametri Progetto]
+Id node assegnato: 
+Code assegnato:
+
+[Candidato 1]
+Cognome:
+Nome:
+Matricola:
+Email:
+Cellulare:
+
+[Candidato 2]
+Cognome:
+Nome:
+Matricola:
+Email:
+Cellulare:
+
+[Autovalutazione]
+Ultimo Step completato: //1a,1b, ... 2, 3
+I candidati sono pronti a scrivere codice per micro: // 0 .. 100%
+
+[Feedback Candidato 1]
+Il testo era in linea con quanto fatto a lezione: //si, no
+se no quali difficolta' si sono incontrati:
+Tempo/Difficolta' erano bilanciati:  //si, no
+Aggiungere qualche se risposto no alla precedente:
+Durante il corso ho avuto modo di ripetere quanto fatto a lezione:
+Durante il corso ho avuto modo di effettuare gli esercizi proposti a lezioni:
+In genere ho capito il senso di programmare i microcontrollori:
+Consigli per migliorare il corso:
+Consigli per migliorare la prova in itinere:
+Consigli in generale:
+
+[Feedback Candidato 2]
+Il testo era in linea con quanto fatto a lezione: //si, no
+se no quali difficolta' si sono incontrati:
+Tempo/Difficolta' erano bilanciati:  //si, no
+Aggiungere qualche se risposto no alla precedente:
+Durante il corso ho avuto modo di ripetere quanto fatto a lezione:
+Durante il corso ho avuto modo di effettuare gli esercizi proposti a lezioni:
+In genere ho capito il senso di programmare i microcontrollori:
+Consigli per migliorare il corso:
+Consigli per migliorare la prova in itinere:
+Consigli in generale:
+
+
+
